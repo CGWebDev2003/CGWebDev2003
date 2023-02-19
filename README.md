@@ -1,5 +1,6 @@
 # 🚀 CSS is awso...
 
+![](https://visitor-badge.glitch.me/badge?page_id=CGWebDev2003)
 
 ![banner](https://user-images.githubusercontent.com/122671813/218318598-b4111e6a-a8e8-45c5-b626-8c34a318d7f3.png)
 
