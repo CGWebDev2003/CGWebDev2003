@@ -1,7 +1,7 @@
 # Hi! I'm Colin
 ---
 
-<img src="https://user-images.githubusercontent.com/122671813/231505712-1d24b2b6-e041-4d06-9aa0-ecce98d133a3.png" width="800">
+
 
 
 
