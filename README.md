@@ -1,6 +1,10 @@
 # Hi! I'm Colin
 ---
 
+<img src="https://user-images.githubusercontent.com/122671813/231505712-1d24b2b6-e041-4d06-9aa0-ecce98d133a3.png" width="800">
+
+
+
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/colingrahm1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/colingrahm.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-grahm-a79422252/)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CGWebDev2003&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)<br>
